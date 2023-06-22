@@ -4,14 +4,22 @@ We are having a data set of Bangalore city which have the Air Quality Index info
 The Dataset Description is as follows:
 
 T = Average annual temperature 
+
 TM = Annual average maximum temperature
+
 Tm = Average annual minimum temperature 
+
 SLP = Sea Level Pressure H = Humidity 
+
 V = Annual average wind speed 
+
 VM = Maximum wind speed 
+
 PM 2.5 : This is our Dependent variable i.e. our Air Quality Index
 
+
 AQI	Recommendations / Effects
+
 **0 -50** Air quality is good and air pollution poses little or no risk.
 	
 **51- 100**	Air quality is acceptable, however for some pollutants there may be a moderate health concern for a very small number of people who are exceptionally sensitive to air pollution and should consider limiting excessive physical exertion outdoors.
